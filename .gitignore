@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# 测试与基准产物（样例图全部现场生成，不提交二进制图）
+.pytest_cache/
+tests/tmp/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
