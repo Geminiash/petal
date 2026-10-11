@@ -1,5 +1,7 @@
 # 落英 · Petal
 
+![示例画廊](docs/screenshot.webp)
+
 把一个本地照片文件夹，一键变成绝美的静态画廊。所有图片 WebP 化，三档尺寸 + LQIP 占位，
 输出单个 `index.html`：零 CDN、零框架、零外部请求。
 

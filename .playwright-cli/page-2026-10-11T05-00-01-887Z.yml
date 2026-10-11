@@ -1,0 +1,35 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - heading "落英 · 示例画廊 Petal" [level=1] [ref=e6]:
+          - text: 落英 · 示例画廊
+          - generic [ref=e7]: Petal
+        - paragraph [ref=e8]:
+          - text: 光落进镜头，就成了可以回看的日子。
+          - generic [ref=e9]: Light lands, and stays.
+      - button "切换明暗主题" [ref=e10] [cursor=pointer]: ☾
+  - main [ref=e11]:
+    - generic [ref=e13]:
+      - heading "2026 年 10 月6 张" [level=2] [ref=e14]
+      - generic [ref=e15]:
+        - link [ref=e16] [cursor=pointer]:
+          - /url: p/dc7b85d6791a-1600.webp
+          - img "scene-1" [ref=e17]
+        - link [ref=e18] [cursor=pointer]:
+          - /url: p/bdcf438ad235-1600.webp
+          - img "scene-2" [ref=e19]
+        - link [ref=e20] [cursor=pointer]:
+          - /url: p/a72388b0aaf4-1600.webp
+          - img "scene-3" [ref=e21]
+        - link [ref=e22] [cursor=pointer]:
+          - /url: p/d37628ced1f6-1600.webp
+          - img "scene-4" [ref=e23]
+        - link [ref=e24] [cursor=pointer]:
+          - /url: p/1f9765f3aef3-1600.webp
+          - img "scene-5" [ref=e25]
+        - link [ref=e26] [cursor=pointer]:
+          - /url: p/1c672af54b45-1600.webp
+          - img "scene-6" [ref=e27]
+  - contentinfo [ref=e28]:
+    - paragraph [ref=e30]: © 2026 落英 · 示例画廊 · 6 张照片 · 320.2 KB → 115.6 KB · 由 落英 · Petal 生成
